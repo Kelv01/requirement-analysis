@@ -92,3 +92,50 @@ do and how it should perform.
 - **Traceability**  
   Establish traceability matrices to confirm all requirements are implemented, tested, and verified throughout the development process.  
 
+  ## **Types of Requirements**
+
+### **Functional Requirements**  
+**Definition:**  
+Describe *what the system should do* — the features, behaviors, and specific operations the system must perform to meet user needs.  
+
+**Examples for Booking Management System:**  
+
+- **Search Properties**  
+  Allow users to search for available properties based on location, price range, dates, and property type for better discovery.  
+
+- **User Registration**  
+  Enable new users to create an account with personal information and secure credentials.  
+
+- **Property Listings**  
+  Display property details such as images, pricing, amenities, and availability to help users make informed choices.  
+
+- **Booking System**  
+  Support users in reserving properties, confirming bookings, viewing booking history, and managing cancellations.  
+
+- **User Authentication**  
+  Provide secure login and registration using encryption and validation to protect user data.  
+
+---
+
+### **Non-functional Requirements**  
+**Definition:**  
+Describe *how the system should perform* rather than specific features — focusing on quality attributes like performance, security, and usability.  
+
+**Examples for Booking Management System:**  
+
+- **Performance**  
+  Pages should load within 2 seconds and handle up to 1000 concurrent users efficiently.  
+
+- **Security**  
+  Implement encryption for sensitive data, enforce secure logins, and prevent common attacks such as SQL injection or XSS.  
+
+- **Scalability**  
+  The system should scale horizontally to manage growth in user traffic and database load.  
+
+- **Usability**  
+  Ensure an intuitive, responsive interface with simple navigation so users can complete tasks easily on any device.  
+
+- **Reliability**  
+  Maintain at least 99.9% uptime with fast recovery mechanisms to minimize downtime and data loss.  
+
+
