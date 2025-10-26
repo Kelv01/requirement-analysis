@@ -188,6 +188,6 @@ Use case diagrams illustrate the interactions between users (actors) and the sys
 
 Below is a sample use case diagram for the booking management system showing key actors and their interactions with the system.  
 
-![ALX Booking Use Case Diagram](
-)
+![ALX Booking Use Case Diagram]<img width="1536" height="1024" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/8526ffb7-506d-4014-ac7a-5dee986386be" />
+
 
