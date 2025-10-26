@@ -6,3 +6,9 @@ product meets business objectives and user expectations. By clearly outlining fu
 and non-functional requirements, this repository serves as a reference point for developers,
 designers, and project managers, helping to maintain alignment, minimize rework,
 and guide the entire development process with clarity and precision.
+
+#What is Requirement Analysis?
+Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where 
+the project team gathers, analyzes, and defines the requirements of the software product to be developed.
+This process ensures that all stakeholders have a clear and mutual understanding of what the system should 
+do and how it should perform.
