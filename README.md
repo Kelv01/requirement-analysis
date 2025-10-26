@@ -145,7 +145,7 @@ Describe how the system should perform rather than specific features, focusing o
   Maintain at least 99.9% uptime with fast recovery mechanisms to minimize downtime and data loss.
 
 ---
-  ## **Use Case Diagrams **  
+  ## Use Case Diagrams   
 
 **Objective:**  
 Provide a visual representation of how different users interact with the booking management system.  
