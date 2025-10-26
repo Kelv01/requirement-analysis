@@ -142,4 +142,52 @@ Describe how the system should perform rather than specific features, focusing o
   Ensure an intuitive, responsive interface with simple navigation so users can complete tasks easily on any device.  
 
 - **Reliability**  
-  Maintain at least 99.9% uptime with fast recovery mechanisms to minimize downtime and data loss.  
+  Maintain at least 99.9% uptime with fast recovery mechanisms to minimize downtime and data loss.
+
+
+  ## **Use Case Diagrams 📊**  
+
+**Objective:**  
+Provide a visual representation of how different users interact with the booking management system.  
+
+### **What are Use Case Diagrams?**  
+Use case diagrams illustrate the interactions between users (actors) and the system to achieve specific goals (use cases). They help define system boundaries and clarify the relationships between functionalities and stakeholders.  
+
+### **Creating Use Case Diagrams**  
+
+- **Identify Actors**  
+  Determine who will interact with the system, such as **Guest**, **Registered User**, and **Admin**.  
+
+- **Define Use Cases**  
+  Outline what each actor can do within the system.  
+  Examples include:  
+  - Search Properties  
+  - Book Property  
+  - Manage Listings  
+  - Register / Login  
+  - View Bookings  
+  - Update Property Details  
+
+- **Draw Interactions**  
+  Show the relationships between actors and their corresponding use cases using connectors or association lines.  
+
+### **Benefits of Use Case Diagrams**  
+
+- **Clear Visual Representation**  
+  Provide a simple yet powerful overview of the system’s main functionalities and user interactions.  
+
+- **Requirement Organization**  
+  Help identify and group system requirements logically for better understanding.  
+
+- **Enhanced Communication**  
+  Facilitate clearer discussions between stakeholders, analysts, and developers.  
+
+---
+
+### **Example Use Case Diagram**
+
+Below is a sample use case diagram for the booking management system showing key actors and their interactions with the system.  
+
+![ALX Booking Use Case Diagram](<img width="1536" height="1024" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/57ab434a-bae5-4f3e-8bde-2a7466fcf7d1" />
+)
+
