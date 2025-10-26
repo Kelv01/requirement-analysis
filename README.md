@@ -14,7 +14,7 @@ This process ensures that all stakeholders have a clear and mutual understanding
 do and how it should perform.
 
 # Why is Requirement Analysis Important?
-
+|Title|Description|
 |-----|----------|
 | **Clarity and Understanding** | It helps in understanding what the stakeholders expect from the software, reducing ambiguity |
 | **Scope Definition** | Clearly defines the scope of the project, which helps in preventing scope creep |
