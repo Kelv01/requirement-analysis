@@ -4,14 +4,14 @@ This repository focuses on Requirement Analysis in Software Development, a cruci
 Its purpose is to gather, analyze, and document stakeholder needs to ensure the final product meets business objectives and user expectations.  
 By clearly outlining functional and non-functional requirements, this repository serves as a reference point for developers, designers, and project managers, helping to maintain alignment, minimize rework, and guide the entire development process with clarity and precision.  
 
----
+
 
 # What is Requirement Analysis?
 
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed.  
 This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.  
 
----
+
 
 # Why is Requirement Analysis Important?
 
@@ -44,7 +44,7 @@ This process ensures that all stakeholders have a clear and mutual understanding
 - **Document Analysis**  
   Review existing documentation and systems to understand current functionalities and identify improvement areas.  
 
----
+
 
 ### Requirement Elicitation  
 
@@ -57,7 +57,7 @@ This process ensures that all stakeholders have a clear and mutual understanding
 - **Prototyping**  
   Create prototypes or mockups to help stakeholders visualize system features and refine their requirements.  
 
----
+
 
 ### Requirement Documentation  
 
@@ -70,7 +70,7 @@ This process ensures that all stakeholders have a clear and mutual understanding
 - **Use Cases**  
   Develop use case diagrams to illustrate how users interact with the system and achieve specific outcomes.  
 
----
+
 
 ### Requirement Analysis and Modeling  
 
@@ -83,7 +83,7 @@ This process ensures that all stakeholders have a clear and mutual understanding
 - **Modeling**  
   Create visual representations like data flow diagrams and entity-relationship diagrams to analyze and clarify requirements.  
 
----
+
 
 ### Requirement Validation  
 
@@ -121,7 +121,7 @@ Describe what the system should do, the features, behaviors, and specific operat
 - **User Authentication**  
   Provide secure login and registration using encryption and validation to protect user data.  
 
----
+
 
 ### Non-functional Requirements  
 **Definition:**  
@@ -144,8 +144,8 @@ Describe how the system should perform rather than specific features, focusing o
 - **Reliability**  
   Maintain at least 99.9% uptime with fast recovery mechanisms to minimize downtime and data loss.
 
-
-  ## **Use Case Diagrams 📊**  
+---
+  ## **Use Case Diagrams **  
 
 **Objective:**  
 Provide a visual representation of how different users interact with the booking management system.  
@@ -190,4 +190,32 @@ Below is a sample use case diagram for the booking management system showing key
 
 ![ALX Booking Use Case Diagram]<img width="1536" height="1024" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/8526ffb7-506d-4014-ac7a-5dee986386be" />
 
+
+---
+
+## Acceptance Criteria 
+
+**Objective:** Establishing clear criteria for feature completion.  
+
+### What is Acceptance Criteria?  
+Acceptance criteria are specific, measurable conditions that a feature must meet to be accepted by stakeholders.  
+They ensure that everyone — from developers to clients — understands when a feature is considered "done."  
+
+### How to Define Acceptance Criteria  
+- **Be specific and measurable** — clearly outline what success looks like.  
+- **Include both functional and non-functional aspects** — cover behavior, performance, and usability.  
+- **Keep them testable** — criteria should be verifiable through testing or user validation.  
+
+### Example: Checkout Feature (Booking System)  
+**Acceptance Criteria:**  
+- Users can add selected properties to a checkout list.  
+- Users can review booking details before confirming.  
+- Payment is processed securely through the integrated gateway.  
+- Upon successful payment, users receive a confirmation email within **2 minutes**.  
+- The system prevents duplicate bookings for the same dates.  
+
+### Benefits of Acceptance Criteria  
+- Ensure all parties have a shared understanding of feature expectations.  
+- Provide a **clear benchmark** for testing and validation.  
+- Help maintain **quality**, **transparency**, and **user satisfaction**.  
 
